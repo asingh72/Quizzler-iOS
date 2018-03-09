@@ -1,8 +1,8 @@
 # Quizzler
--> It is a quiz app where you can select either true or false choice bases on your knowledge.
--> Based on your answer system will match the correct answer and provides suitable comment(Correct or Wrong). 
--> You will be able to see your sore as you progress.
--> At the end you get option to restart the quiz.
+-> It is a quiz app where you can select either true or false choice bases on your knowledge.<br>
+-> Based on your answer system will match the correct answer and provides suitable comment(Correct or Wrong). <br>
+-> You will be able to see your sore as you progress.<br>
+-> At the end you get option to restart the quiz.<br>
 
 
 ![1](https://user-images.githubusercontent.com/25624988/37218538-c2e303ba-238e-11e8-99e4-75da6eab97b8.png)
